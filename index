@@ -6,12 +6,12 @@
 <meta name="theme-color" content="#ffffff">
   <link rel="manifest" href="manifest.json">
   <title>متابعة الحضور</title>
-  <link rel="icon" type="image/png" href="https://img.freepik.com/free-vector/glyph-calendar-with-check-mark_78370-7210.jpg?semt=ais_hybrid&w=740&q=80">
-  <link rel="apple-touch-icon" href="https://img.freepik.com/free-vector/glyph-calendar-with-check-mark_78370-7210.jpg?semt=ais_hybrid&w=740&q=80">
+  <link rel="icon" type="image/png" href="https://i.ibb.co/gLDX4LK4/456e0a1c-fa66-484f-9c01-7e37e9e3cb01.jpg">
+  <link rel="apple-touch-icon" href="https://i.ibb.co/gLDX4LK4/456e0a1c-fa66-484f-9c01-7e37e9e3cb01.jpg">
   <meta name="description" content="متابعة الحضور">
   <meta property="og:title" content="متابعة الحضور">
   <meta property="og:description" content="متابعة الحضور">
-  <meta property="og:image" content="https://img.freepik.com/free-vector/glyph-calendar-with-check-mark_78370-7210.jpg?semt=ais_hybrid&w=740&q=80">
+  <meta property="og:image" content="https://i.ibb.co/gLDX4LK4/456e0a1c-fa66-484f-9c01-7e37e9e3cb01.jpg">
   <meta property="og:type" content="website">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -57,7 +57,7 @@ background: #ffffff;
 
   <!-- السبلاش سكرين -->
   <div id="splash">
-    <img src="https://img.freepik.com/free-vector/glyph-calendar-with-check-mark_78370-7210.jpg?semt=ais_hybrid&w=740&q=80" 
+    <img src="https://i.ibb.co/gLDX4LK4/456e0a1c-fa66-484f-9c01-7e37e9e3cb01.jpg" 
          alt="لوجو" 
          style="width:140px; height:140px; object-fit:contain; border-radius:20px;">
     <p>جاري التحميل...</p>
